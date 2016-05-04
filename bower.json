@@ -13,6 +13,10 @@
   ],
   "dependencies": {
     "jquery": "^2.2.3",
-    "requirejs": "^2.2.0"
+    "requirejs": "^2.2.0",
+    "handlebars": "^4.0.5",
+    "Snap.svg": "snap.svg#^0.4.1",
+    "lodash": "^4.11.2",
+    "director": "^1.2.8"
   }
 }

@@ -1,0 +1,16 @@
+[
+	{
+		"num":0,
+		"name":"The Fool",
+		"image":"back.png",
+		"desc_forward":"정방향에 대한 설명입니다",
+		"desc_backward":"역방향에 대한 설명입니다"
+	}
+	,{
+		"num":1,
+		"name":"The Magician",
+		"image":"back.png",
+		"desc_forward":"정방향에 대한 설명입니다",
+		"desc_backward":"역방향에 대한 설명입니다"
+	}
+]
